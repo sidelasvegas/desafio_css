@@ -1,6 +1,6 @@
 @import url('reset.css');
 body {
-    background-color: rgba(9, 18, 22, 0.9);
+    background-color: rgba(6, 18, 32, 0.9);
   }
   
   h2 {
@@ -20,7 +20,7 @@ body {
   }
   
   .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(59, 168, 225, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -97,7 +97,7 @@ body {
     background-color: #252525;
     padding: 16px;
     border-radius: 100px;
-    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+    box-shadow: inset -5px 6px 9px rgba(0, 0, 0, .7);
   }
   
   #course-content .modules-list .module span {
